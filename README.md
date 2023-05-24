@@ -19,9 +19,9 @@
 - Making websites using  **Wordpress**, **Laravel**, **Codeigniter**  and **php** <br>
 ![My Skills]([https://skills.thijs.gg/icons?i=go,react,tailwind&theme=dark](https://skills.thijs.gg/icons?i=wordpress,laravel,php&theme=dark))
 - Use 
-![My Skills](https://skills.thijs.gg/icons?i=vscode,gulp,sass,webpack&theme=dark)
+![My Skills]([https://skills.thijs.gg/icons?i=vscode,gulp,sass,webpack&theme=dark](https://skills.thijs.gg/icons?i=vscode,gulp,sass,webpack&theme=dark))
 - Making Telegram bots using **Python + aiogram**<br>
-![My Skills](https://skills.thijs.gg/icons?i=python&theme=dark)
+![My Skills]([https://skills.thijs.gg/icons?i=python&theme=dark](https://skills.thijs.gg/icons?i=python&theme=dark))
 - Love Unix, Docker <br>
  ![My Skills]([https://skills.thijs.gg/icons?i=linux,docker,bash&theme=dark](https://skills.thijs.gg/icons?i=linux,docker&theme=dark))
 
