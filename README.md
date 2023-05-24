@@ -5,7 +5,7 @@
     <a href="https://t.me/WpDews"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"></a>
     
     <a href="mailto:aleksmorro@gmail.com"><img src="https://img.shields.io/badge/Email%20me-blue?logo=gmail&logoColor=white&style=for-the-badge"></a>
-</p>
+</p> 
 <img src="https://img.shields.io/github/stars/w1png?label=Stars%20%E2%9C%A8&logo=github&style=&style=for-the-badge">
 <hr width=60%>
 <h3>Hi 👋, I'm Aleksandr Moroz (aka wpdew)</h3>  
