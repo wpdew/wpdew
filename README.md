@@ -18,7 +18,7 @@
 ### ✨ My skills:
 - Making websites using  **Wordpress**, **Laravel**, **Codeigniter**  and **php** <br>
 ![My Skills](https://skills.thijs.gg/icons?i=wordpress,laravel,php&theme=dark)
-- Use 
+- Use <br>
 ![My Skills](https://skills.thijs.gg/icons?i=vscode,gulp,sass,webpack&theme=dark)
 - Making Telegram bots using **Python + aiogram**<br>
 ![My Skills](https://skills.thijs.gg/icons?i=python&theme=dark)
